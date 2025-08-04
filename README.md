@@ -5,7 +5,7 @@
 
 A modern, responsive, and insightful analytics dashboard powered by AI. Visualize your data with beautiful charts and gain actionable insights to drive your business forward.
 
-![Live Demo](https://ai-analytics.figma.site/)
+[Live Demo](https://ai-analytics.figma.site/)
 
 ## ✨ Features
 
